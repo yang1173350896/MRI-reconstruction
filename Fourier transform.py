@@ -31,4 +31,3 @@ if __name__ == '__main__':
     list5 = demo02(list4)
     print(list5)
 
-
